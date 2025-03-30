@@ -1,4 +1,6 @@
 # Sensitive infromation will be only in secret.rar
 /libraries
+/secrets
+
 # Composer packages
 /vendor
